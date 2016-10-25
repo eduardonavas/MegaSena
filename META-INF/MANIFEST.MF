@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MegaSena
+Bundle-SymbolicName: MegaSena
+Bundle-Version: 1.0.0.qualifier
+Export-Package: br.com.fiap.dao,
+ br.com.fiap.model,
+ br.com.fiap.teste
